@@ -60,12 +60,12 @@ public class search extends javax.swing.JFrame {
         getContentPane().setLayout(null);
 
         jLabel1.setFont(new java.awt.Font("Times New Roman", 1, 24));
-        jLabel1.setText("SEARCH DETAILS!!!");
+        jLabel1.setText("SEARCH DETAILS!!");
         getContentPane().add(jLabel1);
         jLabel1.setBounds(265, 35, 250, 50);
 
         jLabel2.setFont(new java.awt.Font("Times New Roman", 1, 14));
-        jLabel2.setText("ROOM NO-. (NON - AC)");
+        jLabel2.setText("ROOM NO. (NON - AC)");
         getContentPane().add(jLabel2);
         jLabel2.setBounds(10, 90, 150, 30);
 
