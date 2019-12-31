@@ -1,4 +1,4 @@
-/*
+w/*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
@@ -67,6 +67,7 @@ public class search extends javax.swing.JFrame {
         jLabel2.setFont(new java.awt.Font("Times New Roman", 1, 14));
 
         jLabel2.setText("ROOM N1. (NON - AC)");
+
         getContentPane().add(jLabel2);
         jLabel2.setBounds(10, 90, 150, 30);
 
