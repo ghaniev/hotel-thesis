@@ -53,9 +53,9 @@ public class login extends javax.swing.JFrame {
         getContentPane().add(jLabel2);
         jLabel2.setBounds(-10, -80, 630, 560);
 
-        jLabel3.setFont(new java.awt.Font("Times New Roman", 1, 18));
+        jLabel3.setFont(new java.awt.Font("Times-New-Roman", 1, 18));
         jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel3.setText("LOGIN");
+        jLabel3.setText("LOGIN!");
         getContentPane().add(jLabel3);
         jLabel3.setBounds(650, 20, 250, 70);
 
